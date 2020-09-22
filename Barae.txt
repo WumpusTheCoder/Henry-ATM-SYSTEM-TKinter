@@ -1,0 +1,2 @@
+Barae:['Barae', 'Bear', 0, '8259']
+Barae:['Barae', 'Bear', 50000000, '8259']
