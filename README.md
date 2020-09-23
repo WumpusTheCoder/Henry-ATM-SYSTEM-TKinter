@@ -6,4 +6,4 @@ This is a baisic python script which I wrote which emulates an atm/online bankin
 2. Use the TKINTER gui and have fun!
 
 
-##Warning: If this code is not that neat, I apologise. I literally wrote it just for my computer science GCSE class. xD
+## Warning: If this code is not that neat, I apologise. I literally wrote it just for my computer science GCSE class. xD
